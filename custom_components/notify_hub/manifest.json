@@ -1,6 +1,10 @@
 {
     "domain": "notify_hub",
+    "iot_class": "cloud_push",
     "name": "NotifyHub",
     "version": "1.0.0",
+    "documentation": "https://github.com/caiosweet/Hnotify-notifier",
+    "requirements": [],
+    "issue_tracker": "https://github.com/caiosweet/Hnotify-notifier/issues",
     "codeowners": ["@caiosweet"]
 }
