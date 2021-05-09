@@ -1,0 +1,8 @@
+
+{
+  "name": "Notify Notifier",
+  "domains": ["notify"],
+  "country": ["IT"],
+  "render_readme": true,
+  "iot_class": ["Cloud Push"]
+}
