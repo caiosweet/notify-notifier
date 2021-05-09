@@ -1,0 +1,6 @@
+{
+    "domain": "notify_hub",
+    "name": "NotifyHub",
+    "version": "1.0.0",
+    "codeowners": ["@caiosweet"]
+}
